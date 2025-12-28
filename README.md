@@ -1,1 +1,1 @@
-Prviate terms and privaacy pages for API setup
+Prviate terms and privacy pages for API setup
